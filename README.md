@@ -40,4 +40,16 @@ Inspiration
 -----------
 The inspiration for this program is the new [Windows Terminal](https://github.com/microsoft/terminal) launched by Microsoft. It was the most beautiful terminal emulator I have ever seen. Completely customizable, the background by setting video or even gif !, the title of the App etc.
 
-So, the main thing that attracted me was that you could change the colour scheme. I scoured through the 
+So, the main thing that attracted me was that you could change the colour scheme. I scoured through the available python modules, and saw colorama, but we cannot input in colour in colorama. Then I came across [prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
+
+It is a wonderful module. There are many options inculde autocompletion, syntax highlighting and much more.
+
+Special thanks
+--------------
+Special thanks to microsoft for the [Windows Terminal](https://github.com/microsoft/terminal) and inspiring me to make Terminoid. Thanks to the makers of [prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) module for helping me to make this project.
+
+Support and Contribution
+------------------------
+Your support and comments are welcome. You can contribute to [Terminoid](https://github.com/JoelShine/Terminoid/) by opening an issue with title **#Terminoid development** and opening a pull request.
+
+This is a project which is still in development. You can support me by starring this repository and other repositories. Hope this project will be helpful for all 😊
