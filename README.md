@@ -1,5 +1,5 @@
 # Terminoid
-A terminal bot, to accompany in your tasks.
+A terminal bot, to accompany in your tasks. Visit the official webpage of **Terminoid** - https://joelshine.github.io/Terminoid/
 
 <img src = "https://github.com/JoelShine/Terminoid/blob/main/images/terminoid.png" >
 <p align="center">
