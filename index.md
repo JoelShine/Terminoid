@@ -1,10 +1,5 @@
 # Terminoid
 A terminal bot, to accompany in your tasks.
-
-<img src = "https://github.com/JoelShine/Terminoid/blob/main/images/terminoid.png" >
-<p align="center">
-  <b> Screenshot of Terminoid </b>
-  </p>
   
 Installation
 ------------
@@ -31,8 +26,6 @@ See the latest release of Terminoid - https://github.com/JoelShine/Terminoid/rel
 <b>Common errors during installation</b>
 
 You may run into some errors, related to virus. Actually, there is no virus in this program. You can run the program. If you have some Antivirus blocking it, then close the antivirus and try again.
-
-<img src = "https://github.com/JoelShine/Terminoid/blob/main/images/detection.png">
 
 If this screen pops up, you can run anyway as there is no virus or malware in this program.
 
